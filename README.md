@@ -66,3 +66,7 @@ There is no build step. `extension/` is the source. Run the logic tests with:
 ```
 node --test tests/
 ```
+
+## License
+
+[MIT](LICENSE)
